@@ -7,4 +7,6 @@ I'm Miguel, a former Network/Microsystem. I'm currently finishing the Master of 
 - 📫 How to reach me: migueldw2.0@gmail.com
 
 
+<p align="center">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelPerezMartinez)](https://github.com/anuraghazra/github-readme-stats)
+</p>
