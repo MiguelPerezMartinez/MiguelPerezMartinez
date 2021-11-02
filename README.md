@@ -7,7 +7,26 @@ I'm Miguel, a former Network/Microsystem. I just finished the Master of Software
 - 📫 How to reach me: migueldw2.0@gmail.com
 
 ###Languajes and Technologies:
-![alt text](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)![alt text](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)![alt text](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)![alt text](https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg)![alt text](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg)![alt text](https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg)![alt text](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)![alt text](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg)![alt text](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg)![alt text](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg)![alt text](https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg)![alt text](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg)![alt text](https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg)![alt text](https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667)![alt text](https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg)![alt text]()![alt text](https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg)![alt text](https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667)![alt text](https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-plain.svg)
+<p align="left">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" title="html5"/> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" title="css3"/>  
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" title ="javascript"/> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg" width="40" height="40" alt="jQuery" title="jQuery" />
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="40" alt="Bootstrap" title="Bootstrap"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" title="Sass"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" title="React"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" width="40" alt="Node.js" title="NodeJS"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" width="40" alt="PHP" title="PHP"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" title="MongoDB"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" alt="MySQL"  title="MySQL"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" alt="VSCode"  title="VSCode"/>
+   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" title="postman"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" width="40" alt="Jest" title="Jest" />
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" alt="Figma" title="Figma"/>
+   <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40" title="sketch"/>
+   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" title="git"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-plain.svg" width="40" title="Webpack" alt="Webpack"/>
+</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelPerezMartinez&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
