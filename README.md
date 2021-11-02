@@ -16,6 +16,7 @@ I'm Miguel, a former Network/Microsystem. I just finished the Master of Software
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" title="Sass"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" title="React"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" width="40" alt="Node.js" title="NodeJS"/>
+   <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" width="40" alt="python" title="python"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" width="40" alt="PHP" title="PHP"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" title="MongoDB"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" alt="MySQL"  title="MySQL"/>
