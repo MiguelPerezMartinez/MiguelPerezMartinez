@@ -6,7 +6,7 @@ I'm Miguel, a former Network/Microsystem. I just finished the Master of Software
 - 🌱 I’m currently learning MERN stack, PHP, Laravel, Python, Django, ... always looking for new challenges!
 - 📫 How to reach me: migueldw2.0@gmail.com
 
-###Languajes and Technologies:
+### Languajes and Technologies:
 <p align="left">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" title="html5"/> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" title="css3"/>  
