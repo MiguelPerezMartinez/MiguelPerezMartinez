@@ -7,6 +7,7 @@ In addition to my work at Neuraptic.ai, I am deeply involved in the Plantate pro
 Beyond my professional commitments, I am an avid explorer of personal projects that allow me to experiment with new technologies and push the boundaries of my capabilities. Feel free to explore my GitHub repositories to get a glimpse of the diverse range of projects I'm involved in.
 
 Let's connect, collaborate, and innovate! 🚀
+
 📫 How to reach me: migueldw2.0@gmail.com
 
 ### Languajes and Technologies:
