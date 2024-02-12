@@ -1,10 +1,13 @@
-### Hi there 👋
+### Hello there! 👋
 
-I'm Miguel, a former developer, network and microsystem. I just finished the Master of Software Development at Assembler School of Software Engineering.
+I'm Miguel Perez Martinez, a passionate individual immersed in the world of artificial intelligence and software development. Currently, I am proud to be a part of the Neuraptic.ai team, where I contribute my skills and knowledge to the exciting field of AI.
 
-- 🔭 I’m currently working on a game project (based in GDScript) and a web application for self-sustainable cultivation.
-- 🌱 I’m currently learning MERN stack, PHP, Laravel, Python, Django, ... always looking for new challenges!
-- 📫 How to reach me: migueldw2.0@gmail.com
+In addition to my work at Neuraptic.ai, I am deeply involved in the Plantate project, where I am engaged in building a comprehensive application for self-sustainable cultivation. 
+
+Beyond my professional commitments, I am an avid explorer of personal projects that allow me to experiment with new technologies and push the boundaries of my capabilities. Feel free to explore my GitHub repositories to get a glimpse of the diverse range of projects I'm involved in.
+
+Let's connect, collaborate, and innovate! 🚀
+📫 How to reach me: migueldw2.0@gmail.com
 
 ### Languajes and Technologies:
 <p align="left">
